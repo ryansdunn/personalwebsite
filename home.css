@@ -189,7 +189,7 @@ ImageCard._module_1561v_1._css_1561v_1 ._image-container_1561v_3 {
 
 @media (max-width: 768px) {
     ._menuToggle_1jf6d_23 {
-        display:block
+        display:block ;
     }
 
     ._navLinks_1jf6d_32 {
@@ -204,7 +204,7 @@ ImageCard._module_1561v_1._css_1561v_1 ._image-container_1561v_3 {
     }
 
     ._open_1jf6d_66 {
-        display: flex
+        display: flex ;
     }
 }
 
