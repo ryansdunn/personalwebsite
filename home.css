@@ -403,3 +403,10 @@ body {
     line-height: 1.6;
     margin: 0 auto
 }
+
+.years {
+    font-size: 0.9rem;
+    color: #888;
+    margin: 4px 0 10px 0;
+    font-style: italic;
+}
